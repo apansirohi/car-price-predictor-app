@@ -13,7 +13,7 @@ An end-to-end Machine Learning web application that predicts the resale price of
 
 ## 🔗 Project Links
 * **Live Web Application:** [https://car-price-prediction-app-00au.onrender.com](https://car-price-prediction-app-00au.onrender.com)
-* **GitHub Repository:** [https://github.com/AkshatGarg2005/car-price-prediction-app](https://github.com/AkshatGarg2005/car-price-prediction-app)
+* **GitHub Repository:** https://github.com/apansirohi/car-price-predictor-app
 
 ---
 
